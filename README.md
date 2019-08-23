@@ -1,3 +1,1 @@
-test
-test
-test
+This is my first GitHub test repository 
